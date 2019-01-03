@@ -1,0 +1,12 @@
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\bin\Debug\oop_bai 6.exe.config
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\bin\Debug\oop_bai 6.exe
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\bin\Debug\oop_bai 6.pdb
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai 6.csprojAssemblyReference.cache
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai_6.Form1.resources
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai_6.Properties.Resources.resources
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai 6.csproj.GenerateResource.cache
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai 6.csproj.CoreCompileInputs.cache
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai 6.exe
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai 6.pdb
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khoathu\source\repos\oop_bai 6\oop_bai 6\obj\Debug\oop_bai 6.csproj.CopyComplete
