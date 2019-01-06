@@ -1,0 +1,12 @@
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\bin\Debug\oop_vẽ hình.exe.config
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\bin\Debug\oop_vẽ hình.exe
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\bin\Debug\oop_vẽ hình.pdb
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ_hình.Form1.resources
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ_hình.Properties.Resources.resources
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ hình.csproj.GenerateResource.cache
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ hình.csproj.CoreCompileInputs.cache
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ hình.exe
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ hình.pdb
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ hình.csprojAssemblyReference.cache
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\bin\Debug\Newtonsoft.Json.dll
+E:\Project_c#\oop_vẽ hình\oop_vẽ hình\obj\Debug\oop_vẽ hình.csproj.CopyComplete
