@@ -1,0 +1,12 @@
+E:\Project_c#\app bán hàng\app bán hàng\bin\Debug\app bán hàng.exe.config
+E:\Project_c#\app bán hàng\app bán hàng\bin\Debug\app bán hàng.exe
+E:\Project_c#\app bán hàng\app bán hàng\bin\Debug\app bán hàng.pdb
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app_bán_hàng.Form1.resources
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app_bán_hàng.Properties.Resources.resources
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app bán hàng.csproj.GenerateResource.cache
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app bán hàng.csproj.CoreCompileInputs.cache
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app bán hàng.exe
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app bán hàng.pdb
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app_bán_hàng.Home.resources
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app bán hàng.csprojAssemblyReference.cache
+E:\Project_c#\app bán hàng\app bán hàng\obj\Debug\app_bán_hàng.Menu_list.resources

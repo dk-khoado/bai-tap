@@ -1,0 +1,10 @@
+E:\Project_c#\BigNumBer\BigNumBer\bin\Debug\BigNumBer.exe.config
+E:\Project_c#\BigNumBer\BigNumBer\bin\Debug\BigNumBer.exe
+E:\Project_c#\BigNumBer\BigNumBer\bin\Debug\BigNumBer.pdb
+E:\Project_c#\BigNumBer\BigNumBer\obj\Debug\BigNumBer.csprojAssemblyReference.cache
+E:\Project_c#\BigNumBer\BigNumBer\obj\Debug\BigNumBer.Form1.resources
+E:\Project_c#\BigNumBer\BigNumBer\obj\Debug\BigNumBer.Properties.Resources.resources
+E:\Project_c#\BigNumBer\BigNumBer\obj\Debug\BigNumBer.csproj.GenerateResource.cache
+E:\Project_c#\BigNumBer\BigNumBer\obj\Debug\BigNumBer.csproj.CoreCompileInputs.cache
+E:\Project_c#\BigNumBer\BigNumBer\obj\Debug\BigNumBer.exe
+E:\Project_c#\BigNumBer\BigNumBer\obj\Debug\BigNumBer.pdb

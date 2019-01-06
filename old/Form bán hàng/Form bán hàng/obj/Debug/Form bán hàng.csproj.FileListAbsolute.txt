@@ -1,0 +1,10 @@
+E:\Project_c#\Form bán hàng\Form bán hàng\bin\Debug\Form bán hàng.exe.config
+E:\Project_c#\Form bán hàng\Form bán hàng\bin\Debug\Form bán hàng.exe
+E:\Project_c#\Form bán hàng\Form bán hàng\bin\Debug\Form bán hàng.pdb
+E:\Project_c#\Form bán hàng\Form bán hàng\obj\Debug\Form_bán_hàng.Form1.resources
+E:\Project_c#\Form bán hàng\Form bán hàng\obj\Debug\Form_bán_hàng.Properties.Resources.resources
+E:\Project_c#\Form bán hàng\Form bán hàng\obj\Debug\Form bán hàng.csproj.GenerateResource.cache
+E:\Project_c#\Form bán hàng\Form bán hàng\obj\Debug\Form bán hàng.csproj.CoreCompileInputs.cache
+E:\Project_c#\Form bán hàng\Form bán hàng\obj\Debug\Form bán hàng.exe
+E:\Project_c#\Form bán hàng\Form bán hàng\obj\Debug\Form bán hàng.pdb
+E:\Project_c#\Form bán hàng\Form bán hàng\obj\Debug\Form_bán_hàng.UserControl1.resources

@@ -1,0 +1,11 @@
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\bin\Debug\_trinh soạn thảo.exe.config
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\bin\Debug\_trinh soạn thảo.exe
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\bin\Debug\_trinh soạn thảo.pdb
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\obj\Debug\_trinh soạn thảo.csprojAssemblyReference.cache
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\obj\Debug\_trinh_soạn_thảo.Form1.resources
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\obj\Debug\_trinh_soạn_thảo.Properties.Resources.resources
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\obj\Debug\_trinh soạn thảo.csproj.GenerateResource.cache
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\obj\Debug\_trinh soạn thảo.csproj.CoreCompileInputs.cache
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\obj\Debug\_trinh soạn thảo.exe
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\obj\Debug\_trinh soạn thảo.pdb
+E:\Project_c#\_trinh soạn thảo\_trinh soạn thảo\bin\Debug\Program.cs

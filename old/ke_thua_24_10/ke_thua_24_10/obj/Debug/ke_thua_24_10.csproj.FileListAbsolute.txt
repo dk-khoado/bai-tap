@@ -1,0 +1,7 @@
+E:\Project_c#\ke_thua_24_10\ke_thua_24_10\bin\Debug\ke_thua_24_10.exe.config
+E:\Project_c#\ke_thua_24_10\ke_thua_24_10\bin\Debug\ke_thua_24_10.exe
+E:\Project_c#\ke_thua_24_10\ke_thua_24_10\bin\Debug\ke_thua_24_10.pdb
+E:\Project_c#\ke_thua_24_10\ke_thua_24_10\obj\Debug\ke_thua_24_10.csprojAssemblyReference.cache
+E:\Project_c#\ke_thua_24_10\ke_thua_24_10\obj\Debug\ke_thua_24_10.csproj.CoreCompileInputs.cache
+E:\Project_c#\ke_thua_24_10\ke_thua_24_10\obj\Debug\ke_thua_24_10.exe
+E:\Project_c#\ke_thua_24_10\ke_thua_24_10\obj\Debug\ke_thua_24_10.pdb

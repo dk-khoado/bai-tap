@@ -1,0 +1,7 @@
+E:\Project_c#\Trainee_tu_01_menu\bai 675\bin\Debug\bai 675.exe.config
+E:\Project_c#\Trainee_tu_01_menu\bai 675\bin\Debug\bai 675.exe
+E:\Project_c#\Trainee_tu_01_menu\bai 675\bin\Debug\bai 675.pdb
+E:\Project_c#\Trainee_tu_01_menu\bai 675\obj\Debug\bai 675.csprojAssemblyReference.cache
+E:\Project_c#\Trainee_tu_01_menu\bai 675\obj\Debug\bai 675.csproj.CoreCompileInputs.cache
+E:\Project_c#\Trainee_tu_01_menu\bai 675\obj\Debug\bai 675.exe
+E:\Project_c#\Trainee_tu_01_menu\bai 675\obj\Debug\bai 675.pdb
