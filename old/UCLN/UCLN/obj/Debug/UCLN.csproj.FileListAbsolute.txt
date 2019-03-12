@@ -1,7 +1,0 @@
-E:\Project_c#\UCLN\UCLN\bin\Debug\UCLN.exe.config
-E:\Project_c#\UCLN\UCLN\bin\Debug\UCLN.exe
-E:\Project_c#\UCLN\UCLN\bin\Debug\UCLN.pdb
-E:\Project_c#\UCLN\UCLN\obj\Debug\UCLN.csprojAssemblyReference.cache
-E:\Project_c#\UCLN\UCLN\obj\Debug\UCLN.csproj.CoreCompileInputs.cache
-E:\Project_c#\UCLN\UCLN\obj\Debug\UCLN.exe
-E:\Project_c#\UCLN\UCLN\obj\Debug\UCLN.pdb

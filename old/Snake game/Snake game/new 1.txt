@@ -1,4 +1,0 @@
-- tọa độ đầu rắn
-- toa độ đuôi rắn
-- độ dài rắn
-- giới hạn khu vực chơi

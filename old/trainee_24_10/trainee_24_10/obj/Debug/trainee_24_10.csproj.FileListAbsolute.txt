@@ -1,7 +1,0 @@
-E:\Project_c#\trainee_24_10\trainee_24_10\bin\Debug\trainee_24_10.exe.config
-E:\Project_c#\trainee_24_10\trainee_24_10\bin\Debug\trainee_24_10.exe
-E:\Project_c#\trainee_24_10\trainee_24_10\bin\Debug\trainee_24_10.pdb
-E:\Project_c#\trainee_24_10\trainee_24_10\obj\Debug\trainee_24_10.csprojAssemblyReference.cache
-E:\Project_c#\trainee_24_10\trainee_24_10\obj\Debug\trainee_24_10.csproj.CoreCompileInputs.cache
-E:\Project_c#\trainee_24_10\trainee_24_10\obj\Debug\trainee_24_10.exe
-E:\Project_c#\trainee_24_10\trainee_24_10\obj\Debug\trainee_24_10.pdb
